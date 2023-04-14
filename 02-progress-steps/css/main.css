@@ -1,0 +1,103 @@
+:root {
+    --line-border-fill: #3498db; /* Generamos variable en CSS. */
+    --line-border-empty: #e0e0e0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body { 
+    background-color: #f6f7fb;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.progress-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    max-width: 100%;
+    width: 350px;
+}
+
+.progress-container::before {
+    content: ''; /* Cuando usamos ::before debemos de poner siempre un content: '' (Podemos verlo como "otro" contenedor adicional?). */
+    background-color: var(--line-border-empty);
+    position: absolute;
+    top: 50%; /* Lo establecemos en "medio" de la coordenada Y. */
+    left: 0;
+    height: 4px;
+    width: 100%;
+    transform: translateY(-50%); /* Aseguramos de que este realmente en medio de la coordenada Y. */
+    z-index: -1;
+}
+
+
+.progress {
+    background-color: var(--line-border-fill);
+    position: absolute;
+    top: 50%; /* Lo establecemos en "medio" de la coordenada Y. */
+    left: 0;
+    height: 4px;
+    width: 0%;
+    transform: translateY(-50%); /* Aseguramos de que este realmente en medio de la coordenada Y. */
+    z-index: -1;
+    transition: 0.4s ease; /* Hacemos que tenga un efecto de transición tanto al dar clic en next como en prev.*/
+}
+
+.circle {
+    color: #999;
+    background-color: #fff;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid var(--line-border-empty);
+    transition: .4s ease;
+}
+
+.circle.active {
+    border-color: var(--line-border-fill);;
+}
+
+.btn {
+    background-color: var(--line-border-fill);
+    color: #fff;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: sans-serif;
+    padding: 8px 30px; /* 8px top y bottom, 30px left y right. */
+    margin: 5px;
+    font-size: 14px;
+}
+
+/* Con btn:active CSS sabe que este estilo debe de aplicarlo al dar clic en el elemento. */
+.btn:active {
+    transform: scale(.98); /* Agregamos efecto al momento de dar clic. */
+}
+
+/* Aplicamos estilos al dar enfocar el botón. */
+.btn:focus {
+    outline: none;
+}
+
+/* Aplicamos diseño cuando el botón tenga la propiedad de disabled. */
+.btn:disabled {
+    background-color: var(--line-border-empty);
+    cursor: not-allowed; /* Aplicamos estilo de que esta prohibido dar clic. */
+}
