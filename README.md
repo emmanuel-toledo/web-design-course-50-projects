@@ -29,5 +29,7 @@ Esto suele ser de gran ayuda al momento de hacer una página de encuestas o form
 
 ## Project 03 - Rotating navigation
 
+En este proyecto se generará una pequeña página web la cual tendrá un botón superior izquierdo con el cual se podrá controlar un menu que aparecerá en la parte inferior izquierda de la pantalla. 
 
+El menú será visible una vez que todo el contenido de la página rote un poco a la derecha haciendo que se muestre el menú de apartados.
 
