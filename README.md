@@ -33,3 +33,6 @@ En este proyecto se generará una pequeña página web la cual tendrá un botón
 
 El menú será visible una vez que todo el contenido de la página rote un poco a la derecha haciendo que se muestre el menú de apartados.
 
+## Project 4 - Hide search widget
+
+Vamos a generar una barra de busqueda que se activa al momento de dar clic a un botón que despliegue esta funcionalidad.
