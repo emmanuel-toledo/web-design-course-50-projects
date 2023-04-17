@@ -54,4 +54,8 @@ Mucha gente utiliza JQuery o alguna otra librería como Animate.css para hacer c
 
 En este proyecto tendremos un sitio web muy sencillo, en el cual vamos a dividorlo a la mitad, mostrando dos diferentes marcas, lo interesante aquí es que, cuando un usuario posicione el mouse arriba de una de las dos marcas, de forma automática la marca en la que se posiciono el usuario tendra un largo de 75% y la otra un largo de 25%.
 
+# Project 8 - Form wave animation
 
+Este proyecto contiene una pantalla de Login en la cual vamos a aplicar una pequeña animación en los label de los campos que tengamos, haciendo que cambien de lugar cuando dejamos el cursos sobre estos como cuando lo quitamos.
+
+Se hará un efecto de ola desde abajo hacia arriba.
