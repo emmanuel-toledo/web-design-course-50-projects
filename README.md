@@ -49,3 +49,9 @@ Este proyecto se basa en tener un par de componentes que se estarán mostrando d
 Del mismo modo, así como los elemento aparecen en la pantalla, desapareceran una vez que el usuario haga un scroll hacia arriba, haciendo lo contrario a cuando haces un scroll hacia abajo.
 
 Mucha gente utiliza JQuery o alguna otra librería como Animate.css para hacer ciertas animaciones que son muy buenas, pero si ocupa hacer una animación no tan complicada, algo como esto le puede ayudar mucho.
+
+# Project 7 - Split landing page
+
+En este proyecto tendremos un sitio web muy sencillo, en el cual vamos a dividorlo a la mitad, mostrando dos diferentes marcas, lo interesante aquí es que, cuando un usuario posicione el mouse arriba de una de las dos marcas, de forma automática la marca en la que se posiciono el usuario tendra un largo de 75% y la otra un largo de 25%.
+
+
