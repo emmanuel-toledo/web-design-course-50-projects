@@ -36,3 +36,10 @@ El menú será visible una vez que todo el contenido de la página rote un poco 
 ## Project 4 - Hide search widget
 
 Vamos a generar una barra de busqueda que se activa al momento de dar clic a un botón que despliegue esta funcionalidad.
+
+## Project 5 - Blurry loading
+
+En esta sección vamos a trabajar con un efecto de "cargando" al momento de que una imagen se vea reflejada. Básicamente gradualmente se estará mostrando una imagen, desde un tanto borrosa hasta el 100% de su definición. Todo esto acompañado de un indicador del porcentaje de carga de la imagen.
+
+
+
