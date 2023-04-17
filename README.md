@@ -67,3 +67,11 @@ Vamos a hacer un par de pequeños contenedores que, al dar clic en cada uno de e
 Haremos uso del elemento ```<audio></audio>``` que tenemos en HTML.
 
 Dentro de este proyecto encontrará los sonidos que se utilizaron en su elaboración.
+
+# Project 10 - Dad Jokes
+
+En este proyecto tendremos un sitio web que consumirá un web service de terceros en donde obtendremos un chiste diferente cada que demos clic en un botón para cambiar de chiste.
+
+La API que utilizaremos es la siguiente. 
+1. https://icanhazdadjoke.com/api
+
