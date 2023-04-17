@@ -42,4 +42,10 @@ Vamos a generar una barra de busqueda que se activa al momento de dar clic a un 
 En esta sección vamos a trabajar con un efecto de "cargando" al momento de que una imagen se vea reflejada. Básicamente gradualmente se estará mostrando una imagen, desde un tanto borrosa hasta el 100% de su definición. Todo esto acompañado de un indicador del porcentaje de carga de la imagen.
 
 
+# Project 6 - Scoll animation
 
+Este proyecto se basa en tener un par de componentes que se estarán mostrando de forma automática una vez que el usuario haga un scroll hacia abajo en el sitio web.
+
+Del mismo modo, así como los elemento aparecen en la pantalla, desapareceran una vez que el usuario haga un scroll hacia arriba, haciendo lo contrario a cuando haces un scroll hacia abajo.
+
+Mucha gente utiliza JQuery o alguna otra librería como Animate.css para hacer ciertas animaciones que son muy buenas, pero si ocupa hacer una animación no tan complicada, algo como esto le puede ayudar mucho.
