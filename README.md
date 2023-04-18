@@ -86,6 +86,12 @@ Este proyecto será muy interesante, ya que el objetivo es que, cada que presion
 El resultado de esta aplicación esta basado en hacer algo como el siguiente sito web.
 1. https://www.toptal.com/developers/keycode
 
+# Project 12 - FAQ Collapse (Frequently asked questions)
+
+En este projecto haremos un par de tarjetas que contendrán preguntas, las cuales para ver su respuesta se tendrá que dar clic en el botón de desplegar, adicionalmente se tendrá un botón de cerrado para ocultar la respuesta.
+
+Puede tomar como referencia el siguiente enlace.
+1. https://dribbble.com/shots/3967265-FAQ
 
 
 
