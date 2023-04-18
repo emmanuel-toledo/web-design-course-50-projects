@@ -75,3 +75,19 @@ En este proyecto tendremos un sitio web que consumirá un web service de tercero
 La API que utilizaremos es la siguiente. 
 1. https://icanhazdadjoke.com/api
 
+# Project 11 - Event KeyCode
+
+Este proyecto será muy interesante, ya que el objetivo es que, cada que presionemos una tecla en el navegador, de forma automática nos mostrará los datos principales de la tecla que presionamos, los cuales son.
+
+1. Event.Key
+2. Event.KeyCode
+3. Event.Code
+
+El resultado de esta aplicación esta basado en hacer algo como el siguiente sito web.
+1. https://www.toptal.com/developers/keycode
+
+
+
+
+
+
