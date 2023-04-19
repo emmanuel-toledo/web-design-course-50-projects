@@ -93,7 +93,8 @@ En este projecto haremos un par de tarjetas que contendrán preguntas, las cuale
 Puede tomar como referencia el siguiente enlace.
 1. https://dribbble.com/shots/3967265-FAQ
 
+# Project 13 - Random Choice
 
-
+En este proyecto tendremos un campo de texto en el cual podremos agregar diferentes opciones y una vez que agreguemos las que deseamos, de forma automática se seleccionara una opción aleatoria.
 
 
