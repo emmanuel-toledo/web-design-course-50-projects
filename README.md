@@ -42,7 +42,7 @@ Vamos a generar una barra de busqueda que se activa al momento de dar clic a un 
 En esta sección vamos a trabajar con un efecto de "cargando" al momento de que una imagen se vea reflejada. Básicamente gradualmente se estará mostrando una imagen, desde un tanto borrosa hasta el 100% de su definición. Todo esto acompañado de un indicador del porcentaje de carga de la imagen.
 
 
-# Project 6 - Scoll animation
+## Project 6 - Scoll animation
 
 Este proyecto se basa en tener un par de componentes que se estarán mostrando de forma automática una vez que el usuario haga un scroll hacia abajo en el sitio web.
 
@@ -50,17 +50,17 @@ Del mismo modo, así como los elemento aparecen en la pantalla, desapareceran un
 
 Mucha gente utiliza JQuery o alguna otra librería como Animate.css para hacer ciertas animaciones que son muy buenas, pero si ocupa hacer una animación no tan complicada, algo como esto le puede ayudar mucho.
 
-# Project 7 - Split landing page
+## Project 7 - Split landing page
 
 En este proyecto tendremos un sitio web muy sencillo, en el cual vamos a dividorlo a la mitad, mostrando dos diferentes marcas, lo interesante aquí es que, cuando un usuario posicione el mouse arriba de una de las dos marcas, de forma automática la marca en la que se posiciono el usuario tendra un largo de 75% y la otra un largo de 25%.
 
-# Project 8 - Form wave animation
+## Project 8 - Form wave animation
 
 Este proyecto contiene una pantalla de Login en la cual vamos a aplicar una pequeña animación en los label de los campos que tengamos, haciendo que cambien de lugar cuando dejamos el cursos sobre estos como cuando lo quitamos.
 
 Se hará un efecto de ola desde abajo hacia arriba.
 
-# Project 9 - Sound board
+## Project 9 - Sound board
 
 Vamos a hacer un par de pequeños contenedores que, al dar clic en cada uno de ellos, vamos a poder repoducir un audio de forma automática.
 
@@ -68,14 +68,14 @@ Haremos uso del elemento ```<audio></audio>``` que tenemos en HTML.
 
 Dentro de este proyecto encontrará los sonidos que se utilizaron en su elaboración.
 
-# Project 10 - Dad Jokes
+## Project 10 - Dad Jokes
 
 En este proyecto tendremos un sitio web que consumirá un web service de terceros en donde obtendremos un chiste diferente cada que demos clic en un botón para cambiar de chiste.
 
 La API que utilizaremos es la siguiente. 
 1. https://icanhazdadjoke.com/api
 
-# Project 11 - Event KeyCode
+## Project 11 - Event KeyCode
 
 Este proyecto será muy interesante, ya que el objetivo es que, cada que presionemos una tecla en el navegador, de forma automática nos mostrará los datos principales de la tecla que presionamos, los cuales son.
 
@@ -86,15 +86,17 @@ Este proyecto será muy interesante, ya que el objetivo es que, cada que presion
 El resultado de esta aplicación esta basado en hacer algo como el siguiente sito web.
 1. https://www.toptal.com/developers/keycode
 
-# Project 12 - FAQ Collapse (Frequently asked questions)
+## Project 12 - FAQ Collapse (Frequently asked questions)
 
 En este projecto haremos un par de tarjetas que contendrán preguntas, las cuales para ver su respuesta se tendrá que dar clic en el botón de desplegar, adicionalmente se tendrá un botón de cerrado para ocultar la respuesta.
 
 Puede tomar como referencia el siguiente enlace.
 1. https://dribbble.com/shots/3967265-FAQ
 
-# Project 13 - Random Choice
+## Project 13 - Random Choice
 
 En este proyecto tendremos un campo de texto en el cual podremos agregar diferentes opciones y una vez que agreguemos las que deseamos, de forma automática se seleccionara una opción aleatoria.
 
+## Project 14 - Animated Navigation
 
+Este proyecto contendrá un menú de navegación que se mostrará y ocultará con una animación como si el menú se colapsará de forma horizontal.
