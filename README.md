@@ -104,3 +104,10 @@ Este proyecto contendrá un menú de navegación que se mostrará y ocultará co
 ## Project 15 - Incrementing Counter
 
 Vamos a generar un contador incremental, normalmente lo podemos utilizar cuando mostramos el número de seguidores de alguna red social o algún otro conteo que queremos que tenga un efecto muy genial.
+
+## Project 16 - Drink Water
+
+En este proyecto vamos a generar una página web que nos ayudará a medir la cantidad de agua que tomamos al día, en donde registraremos que tanta agua hemos tomado y cuanto nos resta para alcanzar la meta.
+
+
+
