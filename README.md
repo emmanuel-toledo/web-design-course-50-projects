@@ -100,3 +100,7 @@ En este proyecto tendremos un campo de texto en el cual podremos agregar diferen
 ## Project 14 - Animated Navigation
 
 Este proyecto contendrá un menú de navegación que se mostrará y ocultará con una animación como si el menú se colapsará de forma horizontal.
+
+## Project 15 - Incrementing Counter
+
+Vamos a generar un contador incremental, normalmente lo podemos utilizar cuando mostramos el número de seguidores de alguna red social o algún otro conteo que queremos que tenga un efecto muy genial.
