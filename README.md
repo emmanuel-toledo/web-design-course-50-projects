@@ -104,3 +104,26 @@ Este proyecto contendrá un menú de navegación que se mostrará y ocultará co
 ## Project 15 - Incrementing Counter
 
 Vamos a generar un contador incremental, normalmente lo podemos utilizar cuando mostramos el número de seguidores de alguna red social o algún otro conteo que queremos que tenga un efecto muy genial.
+
+## Project 16 - Drink Water
+
+En este proyecto vamos a generar una página web que nos ayudará a medir la cantidad de agua que tomamos al día, en donde registraremos que tanta agua hemos tomado y cuanto nos resta para alcanzar la meta.
+
+## Project 17 - Movie App
+
+En este proyecto trabajaremos sobre una aplicación que tendrá por objetivo mostrar un listado de peliculas.
+
+Esta app consumirá un web service de terceros para mostrar datos de las peliculas que se verán en la app.
+
+Se hará uso de la siguiente API REST gratuita.
+1. https://www.themoviedb.org/
+2. https://developers.themoviedb.org/3/getting-started/introduction
+
+Será necesario generar un nuevo usuario en esta plataforma.
+1. https://www.themoviedb.org/signup
+
+Tendrá que generar una aplicación dentro de su cuenta.
+1. https://www.themoviedb.org/settings/api/request
+
+Tendrá que guardar muy bien el valor del API Key ya que se utilizará en la aplicación.
+
