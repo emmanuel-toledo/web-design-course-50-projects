@@ -127,3 +127,13 @@ Tendrá que generar una aplicación dentro de su cuenta.
 
 Tendrá que guardar muy bien el valor del API Key ya que se utilizará en la aplicación.
 
+## Project 18 - Background Slider
+
+En este proyecto vamos a generar un slider de imagenes, las cuales podrán cambiar por medio de un botón que tendremos en la aplicación, tanto para ir a la siguiente como a la anterior.
+
+
+
+
+
+
+
