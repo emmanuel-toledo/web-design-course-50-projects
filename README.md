@@ -140,6 +140,12 @@ También podremos cambiar de tema, tanto uno claro como uno obscuro.
 Este proyecto esta inspirado del siguiente sitio web.
 1. https://dribbble.com/shots/5958443-Alarm-clock
 
+## Project 20 - Button ripple effect
+
+Este proyecto será un botón el cual tendrá una animación especial al momento de dar clic en el.
+
+
+
 
 
 
