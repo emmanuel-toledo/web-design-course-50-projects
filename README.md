@@ -131,6 +131,16 @@ Tendrá que guardar muy bien el valor del API Key ya que se utilizará en la apl
 
 En este proyecto vamos a generar un slider de imagenes, las cuales podrán cambiar por medio de un botón que tendremos en la aplicación, tanto para ir a la siguiente como a la anterior.
 
+## Project 19 - Theme Clock
+
+En esta aplicación tendremos un Tema de un Reloj, que nos motrará la hora actual y las manecillas del reloj avanzarán en tiempo real además de mostrar la fecha actual.
+
+También podremos cambiar de tema, tanto uno claro como uno obscuro.
+
+Este proyecto esta inspirado del siguiente sitio web.
+1. https://dribbble.com/shots/5958443-Alarm-clock
+
+
 
 
 
