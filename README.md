@@ -156,8 +156,9 @@ Este proyecto tendrá un componente en el cual podremos dibujar, es una versión
 
 Esta aplicación contendrá un ```Loader``` que podremos ocupar en diferentes sitios web. Tiene una animación muy particular con un par de triangulos.
 
+## Project 24 - Content Placeholder
 
-
+En este proyecto aplicaremos una animación a una tarjeta, esto para hacer algo como lo sitios web de hoy en día, que muestran una pequeña animación de que se esta cargando la información y aparecen componentes sin información pero dando alución que se esta cargando.
 
 
 
