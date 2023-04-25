@@ -144,10 +144,21 @@ Este proyecto esta inspirado del siguiente sitio web.
 
 Este proyecto será un botón el cual tendrá una animación especial al momento de dar clic en el.
 
+## Project 21 - Drag and Drop
 
+En este proyecto trabajaremos sobre un par de elementos ```div``` en los cuales podremos arrastrar y colocar una imagen en ellos, esto es de gran utilidad en caso de que queramos hacer una carga de archivos interactiva en un sitio web.
 
+## Project 22 - Drawing App
 
+Este proyecto tendrá un componente en el cual podremos dibujar, es una versión más sencilla de la aplicación Paint de Windows, pero en este caso en nuestro navegador.
 
+## Project 23 - Kinetic CSS Loader
+
+Esta aplicación contendrá un ```Loader``` que podremos ocupar en diferentes sitios web. Tiene una animación muy particular con un par de triangulos.
+
+## Project 24 - Content Placeholder
+
+En este proyecto aplicaremos una animación a una tarjeta, esto para hacer algo como lo sitios web de hoy en día, que muestran una pequeña animación de que se esta cargando la información y aparecen componentes sin información pero dando alución que se esta cargando.
 
 
 
