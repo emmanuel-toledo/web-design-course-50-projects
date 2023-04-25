@@ -148,6 +148,9 @@ Este proyecto será un botón el cual tendrá una animación especial al momento
 
 En este proyecto trabajaremos sobre un par de elementos ```div``` en los cuales podremos arrastrar y colocar una imagen en ellos, esto es de gran utilidad en caso de que queramos hacer una carga de archivos interactiva en un sitio web.
 
+## Project 22 - Drawing App
+
+Este proyecto tendrá un componente en el cual podremos dibujar, es una versión más sencilla de la aplicación Paint de Windows, pero en este caso en nuestro navegador.
 
 
 
