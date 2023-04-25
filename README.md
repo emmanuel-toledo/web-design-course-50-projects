@@ -152,6 +152,10 @@ En este proyecto trabajaremos sobre un par de elementos ```div``` en los cuales 
 
 Este proyecto tendrá un componente en el cual podremos dibujar, es una versión más sencilla de la aplicación Paint de Windows, pero en este caso en nuestro navegador.
 
+## Project 23 - Kinetic CSS Loader
+
+Esta aplicación contendrá un ```Loader``` que podremos ocupar en diferentes sitios web. Tiene una animación muy particular con un par de triangulos.
+
 
 
 
