@@ -144,6 +144,9 @@ Este proyecto esta inspirado del siguiente sitio web.
 
 Este proyecto será un botón el cual tendrá una animación especial al momento de dar clic en el.
 
+## Project 21 - Drag and Drop
+
+En este proyecto trabajaremos sobre un par de elementos ```div``` en los cuales podremos arrastrar y colocar una imagen en ellos, esto es de gran utilidad en caso de que queramos hacer una carga de archivos interactiva en un sitio web.
 
 
 
