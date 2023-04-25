@@ -160,6 +160,12 @@ Esta aplicación contendrá un ```Loader``` que podremos ocupar en diferentes si
 
 En este proyecto aplicaremos una animación a una tarjeta, esto para hacer algo como lo sitios web de hoy en día, que muestran una pequeña animación de que se esta cargando la información y aparecen componentes sin información pero dando alución que se esta cargando.
 
+## Project 25 - Sticky Navigation
+
+Este proyecto es un ejemplo de un sitio web que puede utilizar para diferentes fines. 
+
+El punto importante es la navegación del mismo, ya que aplica una animación que comunmente se ve en diferentes páginas web.
+
 
 
 
