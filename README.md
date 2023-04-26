@@ -170,4 +170,14 @@ El punto importante es la navegación del mismo, ya que aplica una animación qu
 
 Esta aplicación tiene por objetivo tener un slider en formato vertical con dos partes, la parte izquierda con un del slide que se este viendo, y el lado derecho con una imagen.
 
+## Project 27 - Toast notification
+
+Básicamente en este sitio web haremos que se muestren diferentes mensajes de notificación para mostrar uno de los siguientes mensajes:
+
+1. Info
+2. Success
+3. Error
+4. Warning
+
+
 
