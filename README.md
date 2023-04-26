@@ -166,7 +166,8 @@ Este proyecto es un ejemplo de un sitio web que puede utilizar para diferentes f
 
 El punto importante es la navegación del mismo, ya que aplica una animación que comunmente se ve en diferentes páginas web.
 
+## Project 26 - Double Vertical Slider
 
-
+Esta aplicación tiene por objetivo tener un slider en formato vertical con dos partes, la parte izquierda con un del slide que se este viendo, y el lado derecho con una imagen.
 
 
