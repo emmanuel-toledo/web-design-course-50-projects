@@ -166,7 +166,28 @@ Este proyecto es un ejemplo de un sitio web que puede utilizar para diferentes f
 
 El punto importante es la navegación del mismo, ya que aplica una animación que comunmente se ve en diferentes páginas web.
 
+## Project 26 - Double Vertical Slider
 
+Esta aplicación tiene por objetivo tener un slider en formato vertical con dos partes, la parte izquierda con un del slide que se este viendo, y el lado derecho con una imagen.
 
+## Project 27 - Toast notification
 
+Básicamente en este sitio web haremos que se muestren diferentes mensajes de notificación para mostrar uno de los siguientes mensajes:
 
+1. Info
+2. Success
+3. Error
+4. Warning
+
+## Project 28 - Github profiles
+
+Este proyecto tendrá una integración con la API de Github en donde podremos buscar a diferentes perfiles dados de alta en Github, con la posibilidad de ver su imagen, seguidores, repositorios e información general del perfil.
+
+Integraremos todo esto con la librería ```Axios``` para hacer peticiones ```HTTP```. Puede encontrar tanto la documentación de ```Axios``` como la ```API de Github``` en los siguientes enlaces.
+1. https://docs.github.com/en/rest?apiVersion=2022-11-28
+2. https://github.com/axios/axios
+
+En este sitio web puede encontrar los ```CDN``` para diferentes librerías como lo es ```Axios```.
+1. https://cdnjs.com/
+
+Github tiene la posibilidad de usar su API sin necesidad de una autenticación, pero esto reduce el número de veces que podemos ejecutar la API cada cierto tiempo.
