@@ -191,3 +191,16 @@ En este sitio web puede encontrar los ```CDN``` para diferentes librerías como 
 1. https://cdnjs.com/
 
 Github tiene la posibilidad de usar su API sin necesidad de una autenticación, pero esto reduce el número de veces que podemos ejecutar la API cada cierto tiempo.
+
+## Project 29 - Double Heart Click
+
+En este proyecto tendremos una pequeña imagen a la cual podremos dar un doble clic y cada vez que lo hagamos, veremos una pequeña animación de un corazón justo en el lugar donde dimos doble clic en la imagen.
+
+## Project 30 - Auto Text Effect
+
+Este proyecto tiene como objetivo mostrar una animación al mostrar cierto texto, en la cual podremos definir la velocidad que queremos que se tenga en dicha animación.
+
+## Project 31 - Password Generator
+
+En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ciertos parámetros que podemos activar o desactivar, tales como usar mayusculas, simbolos especiales, números entre otras cosas más.
+
