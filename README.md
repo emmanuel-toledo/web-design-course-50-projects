@@ -200,3 +200,7 @@ En este proyecto tendremos una pequeña imagen a la cual podremos dar un doble c
 
 Este proyecto tiene como objetivo mostrar una animación al mostrar cierto texto, en la cual podremos definir la velocidad que queremos que se tenga en dicha animación.
 
+## Project 31 - Password Generator
+
+En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ciertos parámetros que podemos activar o desactivar, tales como usar mayusculas, simbolos especiales, números entre otras cosas más.
+
