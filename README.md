@@ -179,5 +179,15 @@ Básicamente en este sitio web haremos que se muestren diferentes mensajes de no
 3. Error
 4. Warning
 
+## Project 28 - Github profiles
 
+Este proyecto tendrá una integración con la API de Github en donde podremos buscar a diferentes perfiles dados de alta en Github, con la posibilidad de ver su imagen, seguidores, repositorios e información general del perfil.
 
+Integraremos todo esto con la librería ```Axios``` para hacer peticiones ```HTTP```. Puede encontrar tanto la documentación de ```Axios``` como la ```API de Github``` en los siguientes enlaces.
+1. https://docs.github.com/en/rest?apiVersion=2022-11-28
+2. https://github.com/axios/axios
+
+En este sitio web puede encontrar los ```CDN``` para diferentes librerías como lo es ```Axios```.
+1. https://cdnjs.com/
+
+Github tiene la posibilidad de usar su API sin necesidad de una autenticación, pero esto reduce el número de veces que podemos ejecutar la API cada cierto tiempo.
