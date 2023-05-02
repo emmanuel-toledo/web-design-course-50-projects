@@ -226,7 +226,11 @@ Se implementará un carousel de imagenes las cuales se moverán de forma automá
 
 En este sitio web tendremos una plataforma la cual contendrá ciertos cuadros que se iluminarán al momento de pasar el mouse sobre estos colocando colores aleatorios.
 
+### Proyecto 37 - Pokedex
 
+Será un proyecto que será un tipo de Pokedex en la web, en la cual veremos la información de los Pokemons junto con una imagen representativa.
 
+Haremos uso de la siguiente API de Pokemon.
+1. https://pokeapi.co/
 
 
