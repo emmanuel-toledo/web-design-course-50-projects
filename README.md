@@ -204,23 +204,29 @@ Este proyecto tiene como objetivo mostrar una animación al mostrar cierto texto
 
 En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ciertos parámetros que podemos activar o desactivar, tales como usar mayusculas, simbolos especiales, números entre otras cosas más.
 
-## Proyecto 31 - Good Cheap Faster Checkboxes
+## Proyecto 32 - Good Cheap Faster Checkboxes
 
 Básicamente en este proyecto estaremos haciendo un par de checkboxes con un diseño muy particular que podemos utilizar en nuestros diferentes sitios web.
 
-### Proyecto 32 - Notes App
+### Proyecto 33 - Notes App
 
 Este proyecto será un sitio web en el cual podremos realizar anotaciones y almacenarlas en el ```Local Storage```, podremos agregar tantas notas como queramos. También tendremos la funcionalidad de actualizar la nota y eliminarla también.
 
 El proyecto almacenará la información en un formato ```Markdown```.
 
-### Proyecto 33 - Animated Countdown
+### Proyecto 34 - Animated Countdown
 
 Este proyecto básicamente contiene un contador con una animación muy particular que puede utilizarse en diferentes sitios web.
 
-### Proyecto 34 - Image Carousel
+### Proyecto 35 - Image Carousel
 
 Se implementará un carousel de imagenes las cuales se moverán de forma automática y del mismo modo, tendremos la opción de movernos a la siguiente o la anterior imagen.
+
+### Proyecto 36 - Hoverboard
+
+En este sitio web tendremos una plataforma la cual contendrá ciertos cuadros que se iluminarán al momento de pasar el mouse sobre estos colocando colores aleatorios.
+
+
 
 
 
