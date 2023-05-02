@@ -208,4 +208,8 @@ En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ci
 
 Básicamente en este proyecto estaremos haciendo un par de checkboxes con un diseño muy particular que podemos utilizar en nuestros diferentes sitios web.
 
+### Proyecto 32 - Notes App
 
+Este proyecto será un sitio web en el cual podremos realizar anotaciones y almacenarlas en el ```Local Storage```, podremos agregar tantas notas como queramos. También tendremos la funcionalidad de actualizar la nota y eliminarla también.
+
+El proyecto almacenará la información en un formato ```Markdown```.
