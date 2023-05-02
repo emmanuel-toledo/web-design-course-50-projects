@@ -204,3 +204,8 @@ Este proyecto tiene como objetivo mostrar una animación al mostrar cierto texto
 
 En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ciertos parámetros que podemos activar o desactivar, tales como usar mayusculas, simbolos especiales, números entre otras cosas más.
 
+## Project 31 - Good Cheap Faster Checkboxes
+
+Básicamente en este proyecto estaremos haciendo un par de checkboxes con un diseño muy particular que podemos utilizar en nuestros diferentes sitios web.
+
+
