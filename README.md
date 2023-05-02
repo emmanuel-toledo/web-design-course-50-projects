@@ -218,5 +218,9 @@ El proyecto almacenará la información en un formato ```Markdown```.
 
 Este proyecto básicamente contiene un contador con una animación muy particular que puede utilizarse en diferentes sitios web.
 
+### Proyecto 34 - Image Carousel
+
+Se implementará un carousel de imagenes las cuales se moverán de forma automática y del mismo modo, tendremos la opción de movernos a la siguiente o la anterior imagen.
+
 
 
