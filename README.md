@@ -237,3 +237,10 @@ Haremos uso de la siguiente API de Pokemon.
 ### Proyecto 38 - Mobile Tab Navigation
 
 Este proyecto tendrá una navegación tal como la vemos en dispositivos mobiles, esto es de gran ayuda ya que en caso de hacer responsivo un sitio web, esta es una gran alternativa.
+
+### Proyecto 39 - Password Strenght Background
+
+En este sitio web tendremos un formulario de registro muy sencillo, en el cual lo importante será el campo de ```Password```, ya que al momento de escribir una contraseña, entre más segura la contraseña la calidad de la imagen de fondo se verá mejor.
+
+
+
