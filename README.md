@@ -234,3 +234,6 @@ Haremos uso de la siguiente API de Pokemon.
 1. https://pokeapi.co/
 
 
+### Proyecto 38 - Mobile Tab Navigation
+
+Este proyecto tendrá una navegación tal como la vemos en dispositivos mobiles, esto es de gran ayuda ya que en caso de hacer responsivo un sitio web, esta es una gran alternativa.
