@@ -242,5 +242,13 @@ Este proyecto tendrá una navegación tal como la vemos en dispositivos mobiles,
 
 En este sitio web tendremos un formulario de registro muy sencillo, en el cual lo importante será el campo de ```Password```, ya que al momento de escribir una contraseña, entre más segura la contraseña la calidad de la imagen de fondo se verá mejor.
 
+### Proyecto 40 - 3D Background Boxes
+
+Este sitio web mostrará un contenedor con una imagen como ```background``` y con un efecto 3D en el contorno de la misma.
+
+Por medio de un botón podremos partir dicha imagen en pequeños recuadros que del mismo modo tendrán un efecto 3D.
+
+
+
 
 
