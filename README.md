@@ -260,3 +260,6 @@ En este sitio web consumiremos una API para recuperar un listado de usuarios los
 
 El filtrado que se realiza dentro del proyecto es con base a los datos que se consultaron antes, no consultamos la API por cada entrada que tengamos en el campo de busqueda.
 
+### Proyecto 43 - Feedback UI Design
+
+Al igual que en proyecto anterior, vamos a generar un diseño para una calificación de satisfacción que se puede implementar ya sea en una encuesta o algún otro proyecto. 
