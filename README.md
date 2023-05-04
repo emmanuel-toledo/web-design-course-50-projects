@@ -252,8 +252,11 @@ Por medio de un botón podremos partir dicha imagen en pequeños recuadros que d
 
 Este proyecto solamente se enfoca en hacer la parte visual de una verificación de cuenta por medio de un código enviado ya sea por email o por sms.
 
+### Proyecto 42 - Live User Filter
 
+En este sitio web consumiremos una API para recuperar un listado de usuarios los cuales podremos filtrar en tiempo real conforme escribamos sobre un campo de busqueda.
 
+1. https://randomuser.me/
 
-
+El filtrado que se realiza dentro del proyecto es con base a los datos que se consultaron antes, no consultamos la API por cada entrada que tengamos en el campo de busqueda.
 
