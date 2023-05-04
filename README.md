@@ -248,6 +248,11 @@ Este sitio web mostrará un contenedor con una imagen como ```background``` y co
 
 Por medio de un botón podremos partir dicha imagen en pequeños recuadros que del mismo modo tendrán un efecto 3D.
 
+### Proyecto 41 - Verify Account UI
+
+Este proyecto solamente se enfoca en hacer la parte visual de una verificación de cuenta por medio de un código enviado ya sea por email o por sms.
+
+
 
 
 
