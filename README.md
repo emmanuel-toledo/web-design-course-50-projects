@@ -234,3 +234,32 @@ Haremos uso de la siguiente API de Pokemon.
 1. https://pokeapi.co/
 
 
+### Proyecto 38 - Mobile Tab Navigation
+
+Este proyecto tendrá una navegación tal como la vemos en dispositivos mobiles, esto es de gran ayuda ya que en caso de hacer responsivo un sitio web, esta es una gran alternativa.
+
+### Proyecto 39 - Password Strenght Background
+
+En este sitio web tendremos un formulario de registro muy sencillo, en el cual lo importante será el campo de ```Password```, ya que al momento de escribir una contraseña, entre más segura la contraseña la calidad de la imagen de fondo se verá mejor.
+
+### Proyecto 40 - 3D Background Boxes
+
+Este sitio web mostrará un contenedor con una imagen como ```background``` y con un efecto 3D en el contorno de la misma.
+
+Por medio de un botón podremos partir dicha imagen en pequeños recuadros que del mismo modo tendrán un efecto 3D.
+
+### Proyecto 41 - Verify Account UI
+
+Este proyecto solamente se enfoca en hacer la parte visual de una verificación de cuenta por medio de un código enviado ya sea por email o por sms.
+
+### Proyecto 42 - Live User Filter
+
+En este sitio web consumiremos una API para recuperar un listado de usuarios los cuales podremos filtrar en tiempo real conforme escribamos sobre un campo de busqueda.
+
+1. https://randomuser.me/
+
+El filtrado que se realiza dentro del proyecto es con base a los datos que se consultaron antes, no consultamos la API por cada entrada que tengamos en el campo de busqueda.
+
+### Proyecto 43 - Feedback UI Design
+
+Al igual que en proyecto anterior, vamos a generar un diseño para una calificación de satisfacción que se puede implementar ya sea en una encuesta o algún otro proyecto. 
