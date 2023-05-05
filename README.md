@@ -268,3 +268,7 @@ Al igual que en proyecto anterior, vamos a generar un diseño para una calificac
 
 En este sitio simplemente trabajaremos en un diseño para un ```range slider``` personalizado que puede utilizarse en proyectos que necesiten, por ejmemplo subir el volumen de un audio o video.
 
+### Proyecto 45 - Netflix Navigation
+
+En este proyecto vamos a hacer una navegación para un sitio web simulando que es una aplicación de ```Netflix```.
+
