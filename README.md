@@ -208,25 +208,25 @@ En esta aplicación vamos a crear un generador de contraseñas, esta teniendo ci
 
 Básicamente en este proyecto estaremos haciendo un par de checkboxes con un diseño muy particular que podemos utilizar en nuestros diferentes sitios web.
 
-### Proyecto 33 - Notes App
+## Proyecto 33 - Notes App
 
 Este proyecto será un sitio web en el cual podremos realizar anotaciones y almacenarlas en el ```Local Storage```, podremos agregar tantas notas como queramos. También tendremos la funcionalidad de actualizar la nota y eliminarla también.
 
 El proyecto almacenará la información en un formato ```Markdown```.
 
-### Proyecto 34 - Animated Countdown
+## Proyecto 34 - Animated Countdown
 
 Este proyecto básicamente contiene un contador con una animación muy particular que puede utilizarse en diferentes sitios web.
 
-### Proyecto 35 - Image Carousel
+## Proyecto 35 - Image Carousel
 
 Se implementará un carousel de imagenes las cuales se moverán de forma automática y del mismo modo, tendremos la opción de movernos a la siguiente o la anterior imagen.
 
-### Proyecto 36 - Hoverboard
+## Proyecto 36 - Hoverboard
 
 En este sitio web tendremos una plataforma la cual contendrá ciertos cuadros que se iluminarán al momento de pasar el mouse sobre estos colocando colores aleatorios.
 
-### Proyecto 37 - Pokedex
+## Proyecto 37 - Pokedex
 
 Será un proyecto que será un tipo de Pokedex en la web, en la cual veremos la información de los Pokemons junto con una imagen representativa.
 
@@ -234,25 +234,25 @@ Haremos uso de la siguiente API de Pokemon.
 1. https://pokeapi.co/
 
 
-### Proyecto 38 - Mobile Tab Navigation
+## Proyecto 38 - Mobile Tab Navigation
 
 Este proyecto tendrá una navegación tal como la vemos en dispositivos mobiles, esto es de gran ayuda ya que en caso de hacer responsivo un sitio web, esta es una gran alternativa.
 
-### Proyecto 39 - Password Strenght Background
+## Proyecto 39 - Password Strenght Background
 
 En este sitio web tendremos un formulario de registro muy sencillo, en el cual lo importante será el campo de ```Password```, ya que al momento de escribir una contraseña, entre más segura la contraseña la calidad de la imagen de fondo se verá mejor.
 
-### Proyecto 40 - 3D Background Boxes
+## Proyecto 40 - 3D Background Boxes
 
 Este sitio web mostrará un contenedor con una imagen como ```background``` y con un efecto 3D en el contorno de la misma.
 
 Por medio de un botón podremos partir dicha imagen en pequeños recuadros que del mismo modo tendrán un efecto 3D.
 
-### Proyecto 41 - Verify Account UI
+## Proyecto 41 - Verify Account UI
 
 Este proyecto solamente se enfoca en hacer la parte visual de una verificación de cuenta por medio de un código enviado ya sea por email o por sms.
 
-### Proyecto 42 - Live User Filter
+## Proyecto 42 - Live User Filter
 
 En este sitio web consumiremos una API para recuperar un listado de usuarios los cuales podremos filtrar en tiempo real conforme escribamos sobre un campo de busqueda.
 
@@ -260,15 +260,15 @@ En este sitio web consumiremos una API para recuperar un listado de usuarios los
 
 El filtrado que se realiza dentro del proyecto es con base a los datos que se consultaron antes, no consultamos la API por cada entrada que tengamos en el campo de busqueda.
 
-### Proyecto 43 - Feedback UI Design
+## Proyecto 43 - Feedback UI Design
 
 Al igual que en proyecto anterior, vamos a generar un diseño para una calificación de satisfacción que se puede implementar ya sea en una encuesta o algún otro proyecto. 
 
-### Proyecto 44 - Custom Range Slider
+## Proyecto 44 - Custom Range Slider
 
 En este sitio simplemente trabajaremos en un diseño para un ```range slider``` personalizado que puede utilizarse en proyectos que necesiten, por ejmemplo subir el volumen de un audio o video.
 
-### Proyecto 45 - Netflix Navigation
+## Proyecto 45 - Netflix Navigation
 
 En este proyecto vamos a hacer una navegación para un sitio web simulando que es una aplicación de ```Netflix```.
 
