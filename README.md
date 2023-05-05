@@ -263,3 +263,8 @@ El filtrado que se realiza dentro del proyecto es con base a los datos que se co
 ### Proyecto 43 - Feedback UI Design
 
 Al igual que en proyecto anterior, vamos a generar un diseño para una calificación de satisfacción que se puede implementar ya sea en una encuesta o algún otro proyecto. 
+
+### Proyecto 44 - Custom Range Slider
+
+En este sitio simplemente trabajaremos en un diseño para un ```range slider``` personalizado que puede utilizarse en proyectos que necesiten, por ejmemplo subir el volumen de un audio o video.
+
