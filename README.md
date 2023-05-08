@@ -272,3 +272,9 @@ En este sitio simplemente trabajaremos en un diseño para un ```range slider``` 
 
 En este proyecto vamos a hacer una navegación para un sitio web simulando que es una aplicación de ```Netflix```.
 
+## Proyecto 46 - Quiz App
+
+Este sitio web será una aplicación de preguntas y respuestas.
+
+
+
