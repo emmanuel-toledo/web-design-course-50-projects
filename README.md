@@ -287,5 +287,9 @@ Se construira un listado de imagenes que se presentarán de forma aleatoria conf
 Se hará uso de la siguiente api para conseguir una imagen.
 1. https://picsum.photos/
 
+## Proyecto 49 - Todo List
+
+En este sitio podremos almacenar una lista de tareas que se guardarán en el LocalStorage del navegador y podrán consultarse sin importar si refrescamos nuestro navegador.
+
 
 
