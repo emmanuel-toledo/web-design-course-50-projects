@@ -276,5 +276,6 @@ En este proyecto vamos a hacer una navegación para un sitio web simulando que e
 
 Este sitio web será una aplicación de preguntas y respuestas.
 
+## Proyecto 47 - Testimonial box switcher
 
-
+Este proyecto contiene un listado de testimonios que se presentarán cada 10 segundos uno seguido del otro.
