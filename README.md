@@ -275,7 +275,17 @@ En este proyecto vamos a hacer una navegación para un sitio web simulando que e
 ## Proyecto 46 - Quiz App
 
 Este sitio web será una aplicación de preguntas y respuestas.
-
+-
 ## Proyecto 47 - Testimonial box switcher
 
 Este proyecto contiene un listado de testimonios que se presentarán cada 10 segundos uno seguido del otro.
+
+## Proyecto 48 - Random Image Feed
+
+Se construira un listado de imagenes que se presentarán de forma aleatoria conforme se refresque la pantalla.
+
+Se hará uso de la siguiente api para conseguir una imagen.
+1. https://picsum.photos/
+
+
+
