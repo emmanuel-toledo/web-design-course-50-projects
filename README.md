@@ -17,6 +17,8 @@ Este repositorio esta basado en el curso siguiente.
 1. https://uvm.udemy.com/course/50-Proyectos-50-days/learn
 2. https://udemy.com/course/50-Proyectos-50-days/learn
 
+Todo este repositorio fue hecho solamente con fines prácticos de los cursos antes mencionados.
+
 ## Proyecto 01 - Expanding cards
 
 Vamos a generar un par de tarjetas expandibles, con el fin de ver diferentes imagenes segun la tarjeta y a su vez, tener un comentario en la parte inferior de cada tarjeta que solo será visible si damos clic en ella. Esta de más mencionar que haremos uso de transiciones y estilos que den mejor vista a nuestra página.
@@ -291,5 +293,6 @@ Se hará uso de la siguiente api para conseguir una imagen.
 
 En este sitio podremos almacenar una lista de tareas que se guardarán en el LocalStorage del navegador y podrán consultarse sin importar si refrescamos nuestro navegador.
 
+## Proyecto 50 - Insect Catch Game
 
-
+Este proyecto será un pequeño videojuego donde tendremos que eliminar a todos los insectos que aparezcan en la pantalla lo más rápido que podamos.
